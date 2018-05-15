@@ -1,0 +1,12 @@
+{
+  "name": "file-explorer",
+  "version": "0.0.1",
+  "description": "demo of node study",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "nodejs-websocket": "^1.7.1",
+    "superagent": "^3.8.2"
+  }
+}
